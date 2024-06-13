@@ -1,2 +1,2 @@
-# QA_Flipkart_Automation-AnkithShenoy
-# Youtube_Automation_QA
+run using ./gradlew test
+build using ./gradlew build
